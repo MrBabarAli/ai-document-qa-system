@@ -25,5 +25,5 @@ An intelligent system that allows users to upload documents (PDF/TXT) and ask qu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-document-qa-system.git
+git clone https://github.com/MrBabarAli/ai-document-qa-system.git
 cd ai-document-qa-system
